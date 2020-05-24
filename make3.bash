@@ -1,5 +1,5 @@
 #!/bin/bash
 
-echo "3" > /manager/finder.txt
+echo "3" > /Mlops_Manager/Manager/finder.txt
 
 
