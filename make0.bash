@@ -1,4 +1,4 @@
 #!/bin/bash
 
-echo "0" > /manager/finder.txt
+echo "0" > /Mlops_Manager/Manager/finder.txt
 
